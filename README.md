@@ -16,7 +16,7 @@
 
 - [Topic_Modelling.ipynb](https://github.com/abyanjan/Natural-language-Processing-NLP-/blob/master/Topic_Modelling.ipynb): 
 
-- [Transfer_Learning_NLP_TF_Hub.ipynb](https://github.com/abyanjan/Natural-language-Processing-NLP-/blob/master/Transfer_Learning_NLP_TF_Hub.ipynb)
+- [Transfer_Learning_NLP_TF_Hub.ipynb](https://github.com/abyanjan/Natural-language-Processing-NLP-/blob/master/Transfer_Learning_NLP_TF_Hub.ipynb): Applying transfer learning with multiple pretrained models for text classification using **Tensorflow Hub** and visulizing the reulsts with **Tensorflow Board**
 
 - Performing Text analysis with **Python**
 - Topic Modeling
