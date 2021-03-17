@@ -4,7 +4,7 @@
 
 - [Text-Analysis-with-R.md](https://github.com/abyanjan/Natural-language-Processing-NLP-/blob/master/Text-Analysis-with-R.md): Performing Text analysis and visualization in R
 
-- [Text_Classification.ipynb](https://github.com/abyanjan/Natural-language-Processing-NLP-/blob/master/Text_Classification.ipynb): 
+- [Text_Classification.ipynb](https://github.com/abyanjan/Natural-language-Processing-NLP-/blob/master/Text_Classification.ipynb): Text classification with sklearn and H2o to classify consumer complaints. H2o AutoMl is first applied to get understanding of best performing model. The selected model is further trained with sklearn for model improvement. 
 
 - [Text_classification_Tensorflow.ipynb](https://github.com/abyanjan/Natural-language-Processing-NLP-/blob/master/Text_classification_Tensorflow.ipynb):
 
